@@ -63,7 +63,7 @@ public:
 
 int main(){
     
-    GradStudent s1("Shaswat Raya Chhetri", 01, 1, "Machine Learning");
+    GradStudent s1("Shaswat", 01, 1, "Machine Learning");
     s1.getInfo();
     return 0;
 }
