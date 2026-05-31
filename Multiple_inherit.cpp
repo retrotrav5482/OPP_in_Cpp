@@ -65,7 +65,7 @@ public:
 
 int main(){
     
-    TA T1("Shaswat Raya Chhetri", 1, "Mathematics", 50000, "Machine Learning");
+    TA T1("Shaswat", 1, "Mathematics", 50000, "Machine Learning");
     T1.getInfo();
     return 0;
 }
